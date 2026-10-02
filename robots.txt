@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ten-frame-farm.enjoy-onepage.com/sitemap.xml

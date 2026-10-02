@@ -1,0 +1,8 @@
+{
+  "name": "수 감각 텐프레임 터치 팜",
+  "short_name": "텐프레임팜",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#fbbf24"
+}
